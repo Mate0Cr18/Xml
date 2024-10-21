@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<electronic_products>
+    <product id="1">
+        <name>Xiaomi Poco F6 </name>
+        <description>Xiaomi, the best quality/price</description>
+        <price>€579,99</price>
+        <features>
+            <feature>
+                <name>Color</name>
+                <value>Black</value>
+            </feature>
+            <feature>
+                <name>inches</name>
+                <value>6,67 </value>
+            </feature>
+        </features>
+    </product>
+    <product id="2">
+        <name>Auriculares Inalámbricos Deportivos</name>
+        <description>
+            Auriculares Inalámbricos Deportivos,
+            Auriculares Bluetooth 5.3 con 4 HD Mic,
+            HiFi Estéreo Cascos Inalambricos,
+            Auriculares in Ear Running con Gancho,
+            80H/LED Reducción de Ruido Cascos,
+            IP7 Impermeable
+        </description>
+        <price>€59,99</price>
+        <features>
+            <feature>
+                <name>Color</name>
+                <value>Negro Profundo</value>
+            </feature>
+            <feature>
+                <name>Material</name>
+                <value>Plástico</value>
+            </feature>
+        </features>
+    </product>
+</electronic_products>

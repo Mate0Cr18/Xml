@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trip>
+    <travellers>
+        <traveller>
+            <name>Mateo Andres</name>
+            <surname>Cardama Rivas</surname>
+        </traveller>
+        <traveller>
+            <name>Alejandro</name>
+            <surname>Rubial Quelle</surname>
+        </traveller>
+    </travellers>
+    <dates>
+        <beginDate>
+            2025-07-15
+        </beginDate>
+        <endDate>
+            2025-07-25
+        </endDate>
+    </dates>
+    <ontheway>
+        <place_of_departure>Madrid</place_of_departure>
+        <destinations>
+            <destination>
+                <city>Paris</city>
+                <hotel>Avenir Hotel Montmartre</hotel>
+                <numbernights>2</numbernights>
+            </destination> 
+            <destination>
+                <city>Liechtenstein</city>
+                <hotel>b-smart motel Schaan</hotel>
+                <numbernights>8</numbernights>
+            </destination>                        
+        </destinations>
+        <price>€103,00 + €1640,00 + food + car + visits</price>
+    </ontheway> 
+</trip>

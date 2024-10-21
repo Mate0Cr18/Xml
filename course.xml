@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course name="TIC">
+    <student>
+        <name id="ana">Ana</name>
+        <gender>Feamle</gender>
+        <comment>Friend of Iván</comment>
+    </student>
+    <student>
+        <name id="ivan">Iván</name>
+        <gender>Male</gender>
+        <birthDate>1981-09-24</birthDate>
+    </student>
+</course>

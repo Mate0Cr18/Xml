@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns:os="http://www.mateo.org/systemsoftware"
+    xmlns:of="http://www.mateo.org/aplicationsoftware">
+    <os:software>
+        <name>Opera</name>
+        <version>113.0.5230.86</version>
+        <developer>Opera Software ASA</developer>
+        <url></url>
+    </os:software>
+    <os:software>
+        <name>Mozilla Firefox</name>
+        <version>131.1</version>
+        <developer>Corporation Mozilla</developer>
+        <url></url>
+    </os:software>
+    <os:software>
+        <name>Edege</name>
+        <version>Edge 93</version>
+        <developer>Microsoft</developer>
+        <url></url>
+    </os:software>
+    <of:software>
+        <name>Word Office</name>
+        <version>Word 2021</version>
+        <developer>Microsoft</developer>
+        <url></url>
+    </of:software>
+    <of:software>
+        <name>Powerpoint</name>
+        <version>Microsoft office 2021</version>
+        <developer>Microsoft</developer>
+        <url></url>
+    </of:software>
+    <of:software>
+        <name>Excel</name>
+        <version>Excel</version>
+        <developer>Microsoft</developer>
+        <url></url>
+    </of:software>
+</catalog>
